@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "title": "Project 1",
+      "description": "Dit is het eerste project.",
+      "technologies": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "title": "Project 2",
+      "description": "Dit is het tweede project.",
+      "technologies": ["React", "Node.js", "Express"]
+    }
+  ]
+}
