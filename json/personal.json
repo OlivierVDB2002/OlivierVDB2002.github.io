@@ -1,14 +1,20 @@
 {
   "projects": [
     {
-      "title": "Project 1",
-      "description": "Dit is het eerste project.",
-      "technologies": ["HTML", "CSS", "JavaScript"]
+      "title": "Middelbare school",
+      "description": "6 jaar gestudeerd aan het Bernardus College in Oudenaarde",
+      "technologies": ["Moderne", "Economie 5 uur wiskunde", "Economie Moderne talen"]
+
     },
     {
-      "title": "Project 2",
-      "description": "Dit is het tweede project.",
-      "technologies": ["React", "Node.js", "Express"]
+      "title": "Bedrijfsmanagement - Supply Chain Management",
+      "description": "3 jarige opleiding aan Artevelde Hogeschool, afgestudeerd in Supply Chain management en Logistiek",
+      "technologies": ["Supply Chain strategies", "Power BI", "WMS"]
+    },
+    {
+      "title": "Applied Data Visualisation - Interactive Media Development",
+      "description": "3 jarige opleiding aan Artevelde Hogeschool, ",
+      "technologies": ["Javascript", "Python", "HTML & CSS", "Photoshop & Illustrator"]
     }
   ]
 }

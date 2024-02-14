@@ -1,4 +1,31 @@
 body {
-    background-color: hsl(33, 65%, 58%);
+    background-color: hsl(33, 72%, 67%);
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 1rem;
+}
+
+.intro {
+    text-align: center;
+    background-color: hsla(0, 0%, 0%, 10%);
+    border-radius: 20px;
+    padding: 1rem;
+    transform: skewX(20deg);
+    max-width: 80rem;
+}
+
+.content {
+    transform: skewX(-20deg);
+}
+
+#project-list {
+    max-width: 80rem;
+    padding: 0;
+}
+
+#project-list li {
+    margin-bottom: 1rem;
+    background-color: hsla(0, 0%, 100%, 30%);
+    padding: 1rem;
+    list-style: none;
+    border-radius: 20px;
 }
